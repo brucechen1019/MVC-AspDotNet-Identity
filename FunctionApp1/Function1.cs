@@ -24,19 +24,4 @@ namespace FunctionApp1
             }
         }
     }
-
-    //public partial class YogabandyContext : DbContext
-    //{
-    //    public YogabandyContext()
-    //        : base("Server=tcp:yoga2017.database.windows.net,1433;Initial Catalog=Yoga2017;Persist Security Info=False;User ID=chuckd;Password=**********!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
-    //    {
-    //    }
-
-    //    public DbSet<YogaSpaceEvent> YogaSpaceEvent { get; set; }
-
-    //    protected override void OnModelCreating(DbModelBuilder modelBuilder)
-    //    {
-    //        //base.OnModelCreating(modelBuilder);
-    //    }
-    //}
 }
